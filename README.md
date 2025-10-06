@@ -422,6 +422,6 @@ Project Link: [https://github.com/mitaleeshirsat/quizz-aio](https://github.com/m
 
 ---
 
-**Made with ❤️ and ☕ by [Your Name]**
+**Made with ❤️ and ☕ by Mitalee**
 
 *If you found this project helpful, please give it a ⭐ on GitHub!*
